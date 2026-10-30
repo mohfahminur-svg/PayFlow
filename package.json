@@ -1,0 +1,16 @@
+{
+  "name": "keuanganku",
+  "version": "1.0.0",
+  "description": "Catatan Uang Pribadi - Smart Wallet PWA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "pwa",
+    "wallet",
+    "keuangan"
+  ],
+  "author": "",
+  "license": "ISC"
+}
